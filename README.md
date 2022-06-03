@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rider37&layout=compact)](https://github.com/rider37/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rider37&show_icons=true&theme=radical)
+
 ---
 
 baekjoon : https://www.acmicpc.net/user/kgw1704
