@@ -1,6 +1,9 @@
 <div align=center>
  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jiwon's%20Code&fontSize=90)
+
+<br>
+<br>
  
 ## :heart: Problem Solving
 
