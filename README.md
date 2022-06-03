@@ -2,6 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rider37&layout=compact)](https://github.com/rider37/github-readme-stats)
 
 ---
 
