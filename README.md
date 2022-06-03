@@ -5,7 +5,7 @@
 <br>
 <br>
 
-## :relaxed: Introduce
+## :relaxed: Introduce ##
 안녕하세요! 알고리즘 공부중인 학생입니다.
  
 :cat:
@@ -13,21 +13,21 @@
 <br>
 <br> 
  
-## :heart: Problem Solving
+## :heart: Problem Solving ##
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/> 
 
 <br>
 <br>
 
- ## :blue_heart: Skill
+ ## :blue_heart: Skill ##
  ### <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rider37&layout=compact)](https://github.com/rider37/github-readme-stats)
 
 <br>
 <br>
 
-## :purple_heart: About Me
+## :purple_heart: About Me ##
 :pushpin: Name : Kang JiWon
 
 :pushpin: Education : Inha univ (Mechanical Egineering)
@@ -35,13 +35,13 @@
 <br>
 <br>
 
-## :yellow_heart: Contact
+## :yellow_heart: Contact ##
 <a href="https://www.instagram.com/so_dlstmxk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100011530800055"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 <br>
 <br>
 
-## :green_heart: Etc
+## :green_heart: Etc ##
 baekjoon : https://www.acmicpc.net/user/kgw1704
 
 solved : https://solved.ac/profile/kgw1704
