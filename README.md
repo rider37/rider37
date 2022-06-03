@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=transparent&color=A100FF&height=300&section=header&text=Jiwon's%20Code&fontColor=000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=A100FF&height=300&section=header&text=Jiwon's%20Code&fontColor=A100FF&fontSize=90)
 
 <br>
 <br>
