@@ -4,6 +4,14 @@
 
 <br>
 <br>
+
+## :relaxed: Introduce
+안녕하세요! 알고리즘 공부중인 학생입니다.
+ 
+:cat:
+
+<br>
+<br> 
  
 ## :heart: Problem Solving
 
