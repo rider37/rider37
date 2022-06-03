@@ -1,6 +1,8 @@
 #           **Jiwon's github** 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rider37&layout=compact)](https://github.com/rider37/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rider37&layout=compact)](https://github.com/rider37/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rider37&show_icons=true&theme=radical)
 
