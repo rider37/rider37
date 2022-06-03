@@ -1,5 +1,5 @@
+<div align=center>
 #           **Jiwon's github** 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/> 
 
@@ -17,7 +17,7 @@ codeforces : https://codeforces.com/profile/rider37
 
 
 ---
-
+</div>
 <!--
 **rider37/rider37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
