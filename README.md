@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Jiwon's%20Code&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=yellow&height=300&section=header&text=Jiwon's%20Code&fontSize=90)
  
 :heart: Problem Solving
 
