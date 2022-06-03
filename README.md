@@ -1,7 +1,7 @@
-#           **Jiwon's github**
+#           **Jiwon's github** 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/>
 
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=TypeScript&logoColor=white"/>
 
 ---
 
@@ -11,10 +11,8 @@ solved : https://solved.ac/profile/kgw1704
 
 codeforces : https://codeforces.com/profile/rider37
 
+
 ---
-
-* EDUCATION : INHA UNIVERSITY (MECHANICAL ENGINEERING)
-
 
 <!--
 **rider37/rider37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
