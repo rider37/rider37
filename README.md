@@ -16,6 +16,7 @@
 
 ## :purple_heart: About Me
 :pushpin: Name : Kang JiWon
+
 :pushpin: Education : Inha univ (Mechanical Egineering)
 
 
