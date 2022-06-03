@@ -11,10 +11,12 @@
    
    
  ## :blue_heart: Skill
- ## <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+ ### <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rider37&show_icons=true&theme=radical)
+## :purple_heart: About Me
+### * Name : Kang JiWon
+### * Education : Inha univ (Mechanical Egineering)
 
 
 baekjoon : https://www.acmicpc.net/user/kgw1704
