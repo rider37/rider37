@@ -1,4 +1,5 @@
-#           **Jiwon's github** 
+#           **Jiwon's github** [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/> 
 
