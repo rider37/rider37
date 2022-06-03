@@ -15,8 +15,8 @@
  
 
 ## :purple_heart: About Me
-* Name : Kang JiWon
-* Education : Inha univ (Mechanical Egineering)
+:pushpin: Name : Kang JiWon
+:pushpin: Education : Inha univ (Mechanical Egineering)
 
 
 baekjoon : https://www.acmicpc.net/user/kgw1704
