@@ -1,4 +1,4 @@
-#           **Jiwon's github** <img src ="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="50" height="50">
+#           **Jiwon's github** <img src ="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30" height="30">
 
 ---
 
