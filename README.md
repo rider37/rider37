@@ -11,7 +11,7 @@
  
  
  ## :blue_heart: Tech
- ### <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+ ### <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rider37&show_icons=true&theme=radical)
