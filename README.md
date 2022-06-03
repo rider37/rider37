@@ -2,7 +2,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Jiwon's%20Code&fontSize=90)
  
-##:heart: Problem Solving
+## :heart: Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw1704)](https://solved.ac/kgw1704)<br/> 
 
