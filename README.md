@@ -1,6 +1,4 @@
-#           **Jiwon's github**
-
-![백준티어](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)
+#           **Jiwon's github** ![백준티어](https://d2gd6pc034wcta.cloudfront.net/tier/13.svg)
 
 ---
 
