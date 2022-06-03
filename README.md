@@ -29,7 +29,7 @@
 <br>
 
 ## :yellow_heart: Contact
-<a href="https://www.instagram.com/so_dlstmxk/"><img src="https://img.shields.io/badge/Instagram-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100011530800055"><img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/so_dlstmxk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Facebook&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100011530800055"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 baekjoon : https://www.acmicpc.net/user/kgw1704
 
